@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "WalletWatcherSnack",
+    "slug": "walletwatcher-snack",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "54.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
