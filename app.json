@@ -1,12 +1,14 @@
 {
   "expo": {
     "name": "WalletWatcherFrontend",
-    "slug": "WalletWatcherFrontend",
+    "slug": "walletwatcher-frontend",
     "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android", "web"],
+    "entryPoint": "node_modules/expo/AppEntry.js",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
